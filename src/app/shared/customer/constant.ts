@@ -1,0 +1,1 @@
+export const config_url = "https://kainosinnovative.com/MNC-PHP-API";
